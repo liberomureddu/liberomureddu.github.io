@@ -12,68 +12,32 @@ In my second doctoral concert, titled 'Sonic Avatars', the musicians on stage re
 
 Sonic Avatars continues my exploration of the improviser’s embodied knowledge within an unconventional performative space akin to a laboratory. By observing how performers interact with this unfamiliar environment, I aim to understand how their extensive yet invisible improvisational knowledge is applied in real time. Unlike my first doctoral concert (link), where players followed random written instructions from software, in Sonic Avatars they react to their own sounds and images. The premiere took place on October 25, 2023, at the Helsinki Music Centre.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Credits
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- Libero Mureddu, artistic concept and direction, software concept, iPad UI design, additional Max programming, live electronics (von Schlippenbach's avatar), project production
+- Vincent von Schlippenbach, turntables
+- Harri Sjöström, soprano and sopranino saxophones
+- Livia Schweizer,  live electronics (Sjöström's avatar)
+- Antonio Borghini, double bass
+- Ville Herrala, live electronics (Borghini's avatar)
+- Cristiano Calcagnile, drums and objects
+- Teemu Mustonen, live electronics (Calcagnile's avatar)
+- Alexis Baskind, sound recording for the Berlin recording session, software concept and design, Max programming, additional Jitter programming
+- Counterpoint Studio, algorithmically generated audiovisual material
+- Max Hilsamer, direction, camera operator and lighting for the Berlin recording session
+- Federico Foderaro, Jitter programming
+- Tuisku Hillilä, sound recording at the Aalto Studios session, Helsinki
+- Ilona Raivio, camera operator at the Aalto Studios session, Helsinki
+- Bjarke Aalto, lighting at the Aalto Studios session, Helsinki
+- Rolando Camilo, filming production at the Aalto Studios session
+- Jan Schacher, additional Max programming
+- Alisha Davidow, stage direction
+- Jon-Patrick Kuhlefelt, concert sound engineer
+- Sirje Ruohtula, concert light designer
+- Jonatan Snapir, concert assistant sound engineer
+- Janne Ikäheimo, concert producer
+- Party&BS, Turntables rental
+- Wilma Hurskainen, photos
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+The project was supported by Taike, the Sibelius Academy Foundation, the Executive Group for Doctoral Education and Research (TTOR) of the University of the Arts Helsinki. Libero Mureddu's doctorate is supported by Koneen säätiö.
+A special thanks to Sakari Puhakka and Helsinki jazz ry for their help for the concert production and Aalto Studios for the filming session in Helsinki.
