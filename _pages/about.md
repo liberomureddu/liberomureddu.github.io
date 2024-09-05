@@ -15,6 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Born in Milan in 1975 and based in Helsinki since 2003, he has studied composition at the Conservatory "G. Verdi" of Milan and music technology at the Centre for Music and Technology, Sibelius Academy, University of the Arts Helsinki. He is currently doing his artistic doctorate at the MuTri Doctoral School at the Sibelius Academy.  In his research, Libero Mureddu investigates the role of embodied knowledge in a free improvisation performance, and how this knowledge can be observed, analysed, and used to develop free improvisation languages. Libero Mureddu's doctorate is generously supported by the Kone Foundation.
+
 ​
 A versatile musician, during the past twenty years his musical experiences in the European scene have ranged from contemporary and experimental music, to jazz and popular music. His most current projects are 'Joy Against the Machine' and 'Sonic Avatars', two compositions-improvisation frameworks where improvisation, composition, music technology, and visuals are blended to expose and challenge the improviser's embodied knowledge.  He is currently leading the murmur trio, a Milan-based trio that merges technology, European new music, and improvisation, within the jazz piano trio configuration. Since 2017, he regularly visits Berlin to perform within the local improvisation scene. His current artistic practice intersects between free improvisation languages, composition, algorithmic processes, to create innovative, unexpected and challenging performative frameworks.
  
