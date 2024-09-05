@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Stripe Animation</title>
+    <style>
+        body {
+            background-color: black;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            color: green;
+            font-size: 36px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .hidden {
+            display: none;
+        }
+        .stripes-container {
+            display: none;
+            width: 100%;
+        }
+        .stripe {
+            width: 100%;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: black; /* Set text color to black */
+            transition: background-color 2s;
+        }
+        #intro, #outro {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        #form-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        #form-container input {
+            font-size: 24px;
+            padding: 10px;
+            margin: 10px;
+        }
+        #form-container button {
+            font-size: 24px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="form-container">
+        <label for="numStripes">Enter number of stripes (1-20):</label>
+        <input type="number" id="numStripes" min="1" max="20" value="7">
+        <button onclick="startAnimation()">Start</button>
+    </div>
+    <div id="intro" class="hidden">Hello. I am the Machine.</div>
+    <div class="stripes-container" id="stripesContainer"></div>
+    <div id="outro" class="hidden">That was enough. Thank you.</div>
+
+    <script>
+        const colors = ["yellow", "orange", "red", "green", "blue", "indigo", "violet"];
+        const texts = [
+            ["Text 1", "Text A", "Text B"],
+            ["Text 2", "Text C", "Text D"],
+            ["Text 3", "Text E", "Text F"],
+            ["Text 4", "Text G", "Text H"],
+            ["Text 5", "Text I", "Text J"],
+            ["Text 6", "Text K", "Text L"],
+            ["Text 7", "Text M", "Text N"]
+        ];
+
+        function startAnimation() {
+            const numStripes = document.getElementById('numStripes').value;
+            const stripesContainer = document.getElementById('stripesContainer');
+            stripesContainer.innerHTML = ''; // Clear any existing stripes
+
+            for (let i = 0; i < numStripes; i++) {
+                const stripe = document.createElement('div');
+                stripe.className = 'stripe';
+                stripe.id = `stripe${i + 1}`;
+                stripe.style.backgroundColor = colors[i % colors.length];
+                stripe.textContent = texts[i % texts.length][0];
+                stripesContainer.appendChild(stripe);
+                changeText(`stripe${i + 1}`, texts[i % texts.length]);
+            }
+
+            document.getElementById('form-container').classList.add('hidden');
+            document.getElementById('intro').classList.remove('hidden');
+            setTimeout(showStripes, 5000);
+        }
+
+        function changeText(stripeId, textArray) {
+            let currentIndex = 0;
+            function updateText() {
+                currentIndex = (currentIndex + 1) % textArray.length;
+                document.getElementById(stripeId).textContent = textArray[currentIndex];
+                const nextInterval = Math.floor(Math.random() * 5000) + 3000; // Random interval between 3000 and 8000 ms
+                setTimeout(updateText, nextInterval);
+            }
+            updateText();
+        }
+
+        function showStripes() {
+            document.getElementById('intro').classList.add('hidden');
+            document.getElementById('stripesContainer').style.display = 'block';
+            setTimeout(startOutro, 5000);
+        }
+
+        function startOutro() {
+            const stripes = document.querySelectorAll('.stripe');
+            stripes.forEach(stripe => {
+                stripe.style.backgroundColor = 'black';
+            });
+            setTimeout(showOutroText, 2000);
+        }
+
+        function showOutroText() {
+            document.getElementById('stripesContainer').classList.add('hidden');
+            document.getElementById('outro').classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>
