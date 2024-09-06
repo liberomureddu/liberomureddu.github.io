@@ -19,6 +19,7 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="#" title=""><img src="http://www.americancivilwarstory.com/images/Coca-Cola_logo.svg.png" class="img-responsive"></a>
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -26,20 +27,5 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
     This image can also have a caption. It's like magic.
 </div>
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
-<div class="container-fluid">
-  <div class="jumbotron">
-    <div class="row vertical-align">
-      <div class="col-xs-4">
-        <a href="#" title=""><img src="http://www.americancivilwarstory.com/images/Coca-Cola_logo.svg.png" class="img-responsive"></a>
-      </div>
-    <div class="col-xs-4">
-        <a href="#" title=""><img src="http://cdn0.sbnation.com/entry_photo_images/2668470/coca-cola_large_verge_medium_landscape.png" class="img-responsive"></a>
-    </div>
-    <div class="col-xs-4">
-        <a href="#" title=""><img src="http://ichef.bbci.co.uk/images/ic/256x256/p03r5406.jpg" class="img-responsive"></a>
-    </div>    
-  </div>
-</div>
-</div>
+
 
