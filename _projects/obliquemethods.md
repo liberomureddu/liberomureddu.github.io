@@ -14,8 +14,6 @@ permalink: /obliquemethods/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Picker</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
-
         body {
             display: flex;
             flex-direction: column;
@@ -23,10 +21,9 @@ permalink: /obliquemethods/
             justify-content: flex-start;
             height: 100vh;
             margin: 0;
-            font-family: 'Barlow', sans-serif;
-            background-color: #fff; /* Background color set to white */
+            /* font-family: 'Barlow', sans-serif;*/
+            /* background-color: #fff; /* Background color set to white */
         }
-
         .card {
             font-size: 16px;
             color: #000;
@@ -43,15 +40,12 @@ permalink: /obliquemethods/
             max-width: 300px;
             background-color: #fff;
         }
-
         .card h2 {
             margin: 0 0 10px 0;
         }
-
         .card p {
             margin: 5px 0;
         }
-
         .button {
             font-size: 16px;
             font-weight: bold; /* Make text bold */
@@ -64,32 +58,17 @@ permalink: /obliquemethods/
             margin-top: 20px;
             /*width: 100%; /* Set to 100% of container */
             max-width: 300px;
-            font-family: 'Barlow', sans-serif; /* Ensure button uses Barlow font */
+            /* font-family: 'Barlow', sans-serif; /* Ensure button uses Barlow font */
         }
-
         .button:hover {
             background-color: #000;
             color: #fff;
         }
-
         #buttonContainer, #cardContainer {
             display: flex;
             flex-direction: column;
             align-items: center;
             width: 100%;
-        }
-
-        @media (max-width: 600px) {
-            .card {
-                width: 100%;
-                padding: 5px;
-                margin: 5px;
-            }
-
-            .button {
-                /*width: 100%;*/
-                padding: 10px;
-            }
         }
     </style>
 </head>
@@ -98,7 +77,6 @@ permalink: /obliquemethods/
         <button class="button" onclick="pickCard()">Click to pick a method</button>
     </div>
     <div id="cardContainer" style="margin-top: 20px;"></div> <!-- Added margin-top for more space -->
-
     <script>
         const cards = [
             { name: "Survey", description: "Collect data from a predefined group of respondents to gain information and insights on various topics of interest.", author: "John Doe", publication: "Research Journal" },
@@ -112,7 +90,6 @@ permalink: /obliquemethods/
             { name: "Longitudinal Study", description: "Track the same subjects over an extended period to observe changes and developments.", author: "Grace Yellow", publication: "Longitudinal Research" },
             { name: "Cross-Sectional Study", description: "Examine a diverse group of subjects at a single point in time to identify correlations and differences.", author: "Hank Purple", publication: "Cross-Sectional Studies" }
         ];
-
         function pickCard() {
             const randomIndex = Math.floor(Math.random() * cards.length);
             const card = cards[randomIndex];
