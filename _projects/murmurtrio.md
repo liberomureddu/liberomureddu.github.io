@@ -19,8 +19,7 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="#" title=""><img src="http://www.americancivilwarstory.com/images/Coca-Cola_logo.svg.png" class="img-responsive"></a>
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% <a href="#"></a> include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
