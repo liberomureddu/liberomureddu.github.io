@@ -3,7 +3,7 @@ layout: page
 title: murmur trio
 description: Libero Mureddu, physically modelled piano and effects - Andrea Grossi, double bass - Cristiano Calcagnile, drums and objects
 img: assets/img/projects_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Makinen_001_700x700.jpeg
-importance: 1
+importance: 2
 category: work
 giscus_comments: false
 ---
