@@ -12,6 +12,15 @@ In my second doctoral concert, titled 'Sonic Avatars', the musicians on stage re
 
 Sonic Avatars continues my exploration of the improviser’s embodied knowledge within an unconventional performative space akin to a laboratory. By observing how performers interact with this unfamiliar environment, I aim to understand how their extensive yet invisible improvisational knowledge is applied in real time. Unlike my first doctoral concert (link), where players followed random written instructions from software, in Sonic Avatars they react to their own sounds and images. The premiere took place on October 25, 2023, at the Helsinki Music Centre.
 
+## Video
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://youtu.be/DXkrKDERihQ?si=5togVAm9y_Yl21M3">
+        {% include figure.liquid loading="eager" path="/assets/img/sonicavatars/2409062024_SCREENSHOT_sonic_avatars_Youtube_001_1262X711%20.jpg" title="Link to Sonic Avatars premiere on YouTube" class="img-fluid rounded z-depth-1" %}
+            </a>
+    </div>
+
 ## Credits
 
 - Libero Mureddu, artistic concept and direction, software concept, iPad UI design, additional Max programming, live electronics (von Schlippenbach's avatar), project production
