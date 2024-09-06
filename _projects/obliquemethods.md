@@ -36,6 +36,7 @@ permalink: /obliquemethods/
             align-items: center;
             max-width: 400px;
             cursor: pointer;
+            background-color: var(--global-card-bg-color);
         }
         .card h2 {
             margin: 0 0 10px 0;
@@ -53,7 +54,7 @@ permalink: /obliquemethods/
 </head>
 <body>
     <div id="clickableAreaContainer">
-        <div class="clickable-area" onclick="pickCard()">Click to pick a method</div>
+        <div class="clickable-area" onclick="pickCard()">Click here to pick a method</div>
     </div>
     <div id="cardContainer" style="margin-top: 20px;"></div>
     <script>
