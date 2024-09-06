@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oblique Methods
-description: with background image
+description: Artistic Research random method picker
 img: assets/img/4.jpg
 importance: 4
 category: work
