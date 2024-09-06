@@ -14,13 +14,6 @@ permalink: /obliquemethods/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Picker</title>
     <style>
-        :root {
-            --button-bg: var(--color-background);
-            --button-border: var(--color-border);
-            --button-text: var(--color-text);
-            --button-hover-bg: var(--color-primary);
-            --button-hover-text: var(--color-on-primary);
-        }
         body {
             display: flex;
             flex-direction: column;
@@ -29,10 +22,10 @@ permalink: /obliquemethods/
             height: 100vh;
             margin: 0;
         }
-        .card {
+        .card, .buttonpicker {
             font-size: 16px;
             padding: 10px;
-            border: 1px solid var(--button-border);
+            border: 1px solid;
             margin: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -50,19 +43,8 @@ permalink: /obliquemethods/
             margin: 5px 0;
         }
         .buttonpicker {
-            font-size: 16px;
             font-weight: bold;
-            padding: 10px 15px;
-            border: 1px solid var(--button-border);
-            border-radius: 5px;
             cursor: pointer;
-            background-color: var(--button-bg);
-            color: var(--button-text);
-            max-width: 300px;
-        }
-        .buttonpicker:hover {
-            background-color: var(--button-hover-bg);
-            color: var(--button-hover-text);
         }
         #buttonpickerContainer, #cardContainer {
             display: flex;
