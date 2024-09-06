@@ -3,7 +3,7 @@ layout: none
 title: Joy Against the Machine - online version
 description: An online, non interactive version of my composition 'Joy Against the Machine'
 img:
-importance: 1
+importance: 3
 category: work
 ---
 <html lang="en">
