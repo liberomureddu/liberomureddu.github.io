@@ -36,6 +36,7 @@ permalink: /obliquemethods/
             width: 100%;
             max-width: 300px;
             background-color: var(--global-card-bg-color);
+            color: var(--global-text-color);
         }
         .card h2 {
             margin: 0 0 10px 0;
