@@ -1,12 +1,11 @@
 ---
 layout: none
-title: Joy Against the Machine Web
-description: An online version of my composition 'Joy Against the Machine'
+title: Joy Against the Machine - online version
+description: An online, non interactive version of my composition 'Joy Against the Machine'
 img:
-importance: 3
-category: fun
+importance: 1
+category: work
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
