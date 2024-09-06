@@ -22,7 +22,7 @@ permalink: /obliquemethods/
             height: 100vh;
             margin: 0;
         }
-        .card, .buttonpicker {
+        .card, .clickable-area {
             font-size: 16px;
             padding: 10px;
             border: 1px solid;
@@ -32,11 +32,11 @@ permalink: /obliquemethods/
             text-align: center;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
+            justify-content: center;
+            align-items: center;
             width: 100%;
             max-width: 300px;
-            background-color: var(--global-card-bg-color);
-            color: var(--global-text-color);
+            cursor: pointer;
         }
         .card h2 {
             margin: 0 0 10px 0;
@@ -44,10 +44,7 @@ permalink: /obliquemethods/
         .card p {
             margin: 5px 0;
         }
-        .buttonpicker {
-            cursor: pointer;
-        }
-        #buttonpickerContainer, #cardContainer {
+        #clickableAreaContainer, #cardContainer {
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -56,8 +53,8 @@ permalink: /obliquemethods/
     </style>
 </head>
 <body>
-    <div id="buttonpickerContainer">
-        <button class="buttonpicker" onclick="pickCard()">Click to pick a method</button>
+    <div id="clickableAreaContainer">
+        <div class="clickable-area" onclick="pickCard()">Click to pick a method</div>
     </div>
     <div id="cardContainer" style="margin-top: 20px;"></div>
     <script>
