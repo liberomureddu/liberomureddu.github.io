@@ -2,7 +2,7 @@
 layout: page
 title: murmur trio
 description: a project with a background image and giscus comments
-img: assets/img/projects_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Mäkinen_001_700x700.jpeg
+img: assets/img/projects_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Makinen_001_700x700.jpeg
 importance: 1
 category: work
 giscus_comments: false
