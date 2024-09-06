@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Improviser, pianist, composer, and music technologist based in Helsinki, Finland
 
 profile:
   align: right
