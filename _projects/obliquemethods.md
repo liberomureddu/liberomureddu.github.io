@@ -52,10 +52,6 @@ permalink: /obliquemethods/
             margin-top: 20px;
             max-width: 300px;
         }
-        .button:hover {
-            background-color: var(--color-primary);
-            color: var(--color-on-primary);
-        }
         #buttonContainer, #cardContainer {
             display: flex;
             flex-direction: column;
