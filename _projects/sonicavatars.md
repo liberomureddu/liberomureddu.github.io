@@ -21,6 +21,7 @@ Sonic Avatars continues my exploration of the improviser’s embodied knowledge 
             </a>
     </div>
 
+
 ## Credits
 
 - Libero Mureddu, artistic concept and direction, software concept, iPad UI design, additional Max programming, live electronics (von Schlippenbach's avatar), project production
