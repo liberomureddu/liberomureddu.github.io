@@ -19,5 +19,8 @@ murmur trio è un laboratorio di suoni e approcci in tempo reale, un esperimento
 ​
 murmur trio investigates the space where purely and intentionally electronic practices intersect with the long shadow of the jazz piano trio. How do we react to this potential friction? How do the acoustic and electronic worlds influence each other? What (im)possibilities lie ahead of us? 
 murmur is a laboratory of sounds and real-time approaches, an experiment in continuous evolution, a journey that attempts to drive the listener off the beaten path, even venturing into the impassable ones.
+https://liberomureddu.github.io/assets/img/murmurtrio/2409061116_SCREENSHOT_murmur_trio_wait_Youtube_001_600x338.jpg
 
-[![murmur trio performing an improvisation called 'wait'](assets/img/murmurtrio/2409061116_SCREENSHOT_murmur_trio_wait_Youtube_001_600×338.jpg)]([https://www.youtube.com/watch?v=mx4gk79WcxE](https://youtu.be/mx4gk79WcxE?si=sFPYgNi-1B-vnWOD))
+
+[![murmur trio performing an improvisation called 'wait'](https://liberomureddu.github.io/assets/img/murmurtrio/2409061116_SCREENSHOT_murmur_trio_wait_Youtube_001_600x338.jpg)](https://www.youtube.com/watch?v=mx4gk79WcxE)
+
