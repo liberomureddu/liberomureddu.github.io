@@ -34,8 +34,7 @@ permalink: /obliquemethods/
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            width: 100%;
-            max-width: 300px;
+            max-width: 400px;
             cursor: pointer;
         }
         .card h2 {
