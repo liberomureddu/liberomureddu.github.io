@@ -6,6 +6,7 @@ img: assets/img/projects_gallery/2309141352_WEBSITE_Sonic_avatars_Promo_image_00
 importance: 1
 category: work
 related_publications: false
+permalink: /sonicavatars/
 ---
 
 In my second doctoral concert, titled 'Sonic Avatars', the musicians on stage respond to video recordings of their own performances. These digital doubles, the Avatars, are controlled in real time by four other hidden performers. During the concert, algorithmically generated videos emerge, where each Avatar influences the others, eventually overshadowing the original material. By the end of the performance, it becomes impossible to visually and acoustically distinguish who is controlling and who is being controlled.
