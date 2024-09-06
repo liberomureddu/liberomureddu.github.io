@@ -35,6 +35,7 @@ permalink: /obliquemethods/
             justify-content: space-between;
             width: 100%;
             max-width: 300px;
+            background-color: var(--global-card-bg-color);
         }
         .card h2 {
             margin: 0 0 10px 0;
@@ -43,7 +44,6 @@ permalink: /obliquemethods/
             margin: 5px 0;
         }
         .buttonpicker {
-            font-weight: bold;
             cursor: pointer;
         }
         #buttonpickerContainer, #cardContainer {
