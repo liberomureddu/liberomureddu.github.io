@@ -2,7 +2,7 @@
 layout: page
 title: Sonic Avatars
 description: for eight improvisers and audiovisual live projections
-img: assets/img/projects_gallery/2309141352_WEBSITE_Sonic_avatars_Promo_image_004_LOW_RES.jpg
+img: assets/img/projects_gallery/2309141352_WEBSITE_Sonic_avatars_Promo_image_004_1000x1000.jpeg
 importance: 1
 category: work
 related_publications: false
