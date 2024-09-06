@@ -21,14 +21,11 @@ permalink: /obliquemethods/
             justify-content: flex-start;
             height: 100vh;
             margin: 0;
-            /* font-family: 'Barlow', sans-serif;*/
-            /* background-color: #fff; /* Background color set to white */
         }
         .card {
             font-size: 16px;
-            color: #000;
             padding: 10px;
-            border: 2px solid #000; /* Set border to 2px */
+            border: 2px solid;
             margin: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -36,9 +33,8 @@ permalink: /obliquemethods/
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-            width: 100%; /* Set to 100% of container */
+            width: 100%;
             max-width: 300px;
-            background-color: #fff;
         }
         .card h2 {
             margin: 0 0 10px 0;
@@ -48,21 +44,17 @@ permalink: /obliquemethods/
         }
         .button {
             font-size: 16px;
-            font-weight: bold; /* Make text bold */
-            padding: 10px 15px; /* Reduced padding */
-            background-color: #fff;
-            color: #000;
-            border: 2px solid #000; /* Set border to 2px */
+            font-weight: bold;
+            padding: 10px 15px;
+            border: 2px solid;
             border-radius: 5px;
             cursor: pointer;
             margin-top: 20px;
-            /*width: 100%; /* Set to 100% of container */
             max-width: 300px;
-            /* font-family: 'Barlow', sans-serif; /* Ensure button uses Barlow font */
         }
         .button:hover {
-            background-color: #000;
-            color: #fff;
+            background-color: var(--color-primary);
+            color: var(--color-on-primary);
         }
         #buttonContainer, #cardContainer {
             display: flex;
@@ -76,7 +68,7 @@ permalink: /obliquemethods/
     <div id="buttonContainer">
         <button class="button" onclick="pickCard()">Click to pick a method</button>
     </div>
-    <div id="cardContainer" style="margin-top: 20px;"></div> <!-- Added margin-top for more space -->
+    <div id="cardContainer" style="margin-top: 20px;"></div>
     <script>
         const cards = [
             { name: "Survey", description: "Collect data from a predefined group of respondents to gain information and insights on various topics of interest.", author: "John Doe", publication: "Research Journal" },
@@ -104,4 +96,3 @@ permalink: /obliquemethods/
     </script>
 </body>
 </html>
-
