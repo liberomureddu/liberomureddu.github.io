@@ -25,7 +25,7 @@ permalink: /obliquemethods/
         .card {
             font-size: 16px;
             padding: 10px;
-            border: 2px solid;
+            border: 1px solid;
             margin: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -46,7 +46,7 @@ permalink: /obliquemethods/
             font-size: 16px;
             font-weight: bold;
             padding: 10px 15px;
-            border: 2px solid;
+            border: 1px solid;
             border-radius: 5px;
             cursor: pointer;
             margin-top: 20px;
