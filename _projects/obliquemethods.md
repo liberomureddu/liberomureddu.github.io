@@ -42,17 +42,16 @@ permalink: /obliquemethods/
         .card p {
             margin: 5px 0;
         }
-        .button {
+        .buttonpicker {
             font-size: 16px;
             font-weight: bold;
             padding: 10px 15px;
             border: 1px solid;
             border-radius: 5px;
             cursor: pointer;
-            margin-top: 20px;
             max-width: 300px;
         }
-        #buttonContainer, #cardContainer {
+        #buttonpickerContainer, #cardContainer {
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -61,8 +60,8 @@ permalink: /obliquemethods/
     </style>
 </head>
 <body>
-    <div id="buttonContainer">
-        <button class="button" onclick="pickCard()">Click to pick a method</button>
+    <div id="buttonpickerContainer">
+        <button class="buttonpicker" onclick="pickCard()">Click to pick a method</button>
     </div>
     <div id="cardContainer" style="margin-top: 20px;"></div>
     <script>
