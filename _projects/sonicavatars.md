@@ -21,6 +21,7 @@ Sonic Avatars continues my exploration of the improviser’s embodied knowledge 
         {% include figure.liquid loading="eager" path="/assets/img/sonicavatars/2409062024_SCREENSHOT_sonic_avatars_Youtube_001_1262X711%20.jpg" title="Link to Sonic Avatars premiere on YouTube" class="img-fluid rounded z-depth-1" %}
             </a>
     </div>
+    </div>
 
 
 ## Credits
