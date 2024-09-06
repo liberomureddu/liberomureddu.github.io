@@ -17,3 +17,12 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 
 [![Link to an youtube video in which the murmur trio performs an improvisation called 'wait'](/assets/img/murmurtrio/2409061116_SCREENSHOT_murmur_trio_wait_Youtube_001_600%C3%97338.jpg?raw=true)](https://youtu.be/mx4gk79WcxE?si=GhimhlZ4hQGHCb4b)
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
