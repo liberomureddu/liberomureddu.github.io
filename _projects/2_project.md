@@ -21,5 +21,5 @@ murmur trio investigates the space where purely and intentionally electronic pra
 murmur is a laboratory of sounds and real-time approaches, an experiment in continuous evolution, a journey that attempts to drive the listener off the beaten path, even venturing into the impassable ones.
 
 
-[![murmur trio performing an improvisation called 'wait'](assets/img/murmurtrio/2409061116_SCREENSHOT_murmur_trio_wait_Youtube_001_600x338.jpg)](https://www.youtube.com/watch?v=mx4gk79WcxE)
+[![murmur trio performing an improvisation called 'wait'](/assets/img/murmurtrio/2409061116_SCREENSHOT_murmur_trio_wait_Youtube_001_600x338.jpg)](https://www.youtube.com/watch?v=mx4gk79WcxE)
 
