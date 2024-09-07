@@ -18,7 +18,7 @@ permalink: /murmurtrio/
 <meta property="og:type" content="website">
 <meta property="og:title" content="murmur trio">
 <meta property="og:description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums">
-<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true">
+<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/0d63f3afc7d1e371e7248a718573b835eeae57f0/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
@@ -26,7 +26,7 @@ permalink: /murmurtrio/
 <meta property="twitter:url" content="https://liberomureddu.github.io/murmurtrio/">
 <meta name="twitter:title" content="murmur trio">
 <meta name="twitter:description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums">
-<meta name="twitter:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true">
+<meta name="twitter:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/0d63f3afc7d1e371e7248a718573b835eeae57f0/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true">
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </head>
