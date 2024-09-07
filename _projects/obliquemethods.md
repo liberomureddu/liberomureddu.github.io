@@ -2,7 +2,7 @@
 layout: page
 title: Oblique Methods
 description: Interactive Artistic Research random method picker
-img: assets/img/projects_gallery/2409062244_SCREENSHOT_Oblique_methods_003_Framed_650X650.jpeg
+img: assets/img/projects_gallery/2409062244_SCREENSHOT_Oblique_methods_001_650X650.jpeg
 importance: 4
 category: work
 related_publications: false
