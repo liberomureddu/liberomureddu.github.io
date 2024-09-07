@@ -12,7 +12,7 @@ permalink: /murmurtrio/
 <meta property="og:title" content="murmur trio" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://liberomureddu.github.io/murmurtrio/" />
-<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/5d65ccecf51d94d971a98249f3f6bbfed027b52e/assets/img/projects_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Makinen_001_700x700.jpeg?raw=true" />
+<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg" />
 </head>
 
 murmur trio investiga lo spazio dove si intersecano pratiche esclusivamente e volutamente elettroniche con la lunga ombra del jazz piano trio. Come reagiamo a questo potenziale attrito? Come si influenzano reciprocamente i mondi acustici ed elettronici? Quali (im)possibilità si presentano davanti a noi? 
