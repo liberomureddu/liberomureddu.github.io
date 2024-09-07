@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Music, bands, research, software
-nav: false
+nav: true
 nav_order:
 display_categories: [work, fun]
 horizontal: false
