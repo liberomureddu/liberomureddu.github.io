@@ -8,6 +8,13 @@ category: work
 giscus_comments: false
 permalink: /murmurtrio/
 ---
+<head>
+<meta property="og:title" content="murmur trio" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://liberomureddu.github.io/murmurtrio/" />
+<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/5d65ccecf51d94d971a98249f3f6bbfed027b52e/assets/img/projects_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Makinen_001_700x700.jpeg?raw=true" />
+</head>
+
 murmur trio investiga lo spazio dove si intersecano pratiche esclusivamente e volutamente elettroniche con la lunga ombra del jazz piano trio. Come reagiamo a questo potenziale attrito? Come si influenzano reciprocamente i mondi acustici ed elettronici? Quali (im)possibilità si presentano davanti a noi? 
 murmur trio è un laboratorio di suoni e approcci in tempo reale, un esperimento in continua evoluzione, un viaggio che tenta di portare l’ascoltatore a visitare le strade meno battute, anche quelle meno percorribili.
 
