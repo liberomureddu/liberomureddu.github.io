@@ -13,7 +13,7 @@ permalink: /murmurtrio/
 <meta property="og:type" content="article" />
 <meta property="og:description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums" />
 <meta property="og:url" content="https://liberomureddu.github.io/murmurtrio/" />
-<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg" />
+<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true" />
 </head>
 
 murmur trio investiga lo spazio dove si intersecano pratiche esclusivamente e volutamente elettroniche con la lunga ombra del jazz piano trio. Come reagiamo a questo potenziale attrito? Come si influenzano reciprocamente i mondi acustici ed elettronici? Quali (im)possibilità si presentano davanti a noi? 
