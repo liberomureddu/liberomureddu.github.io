@@ -2,7 +2,7 @@
 layout: page
 title: plugdata control surface objects
 description: A collection of plugdata GUI objects written in pdlua, ideal for designing custom control surfaces
-img: assets/img/projects_gallery/2409071347_SCREENSHOT_pdlua_control_surface_objects_001_1516X1516.jpg
+img: assets/img/projects_gallery/2409071347_SCREENSHOT_pdlua_control_surface_objects_001_1500X1500.jpg
 importance: 5
 category: work
 related_publications: false
