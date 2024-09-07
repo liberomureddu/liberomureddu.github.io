@@ -9,11 +9,26 @@ giscus_comments: false
 permalink: /murmurtrio/
 ---
 <head>
-<meta property="og:title" content="murmur trio" />
-<meta property="og:type" content="article" />
-<meta property="og:description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums" />
-<meta property="og:url" content="https://liberomureddu.github.io/murmurtrio/" />
-<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true" />
+<!-- HTML Meta Tags -->
+<title>murmur trio</title>
+<meta name="description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://liberomureddu.github.io/murmurtrio/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="murmur trio">
+<meta property="og:description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums">
+<meta property="og:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="liberomureddu.github.io">
+<meta property="twitter:url" content="https://liberomureddu.github.io/murmurtrio/">
+<meta name="twitter:title" content="murmur trio">
+<meta name="twitter:description" content="Libero Mureddu, physically modelled piano - Andrea Grossi, double bass - Cristiano Calcagnile, drums">
+<meta name="twitter:image" content="https://github.com/liberomureddu/liberomureddu.github.io/blob/026aac23893fbfd751a4bf139df1d4fd73ac480b/assets/img/social_media_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Ma%CC%88kinen_001_1200_630.jpg?raw=true">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </head>
 
 murmur trio investiga lo spazio dove si intersecano pratiche esclusivamente e volutamente elettroniche con la lunga ombra del jazz piano trio. Come reagiamo a questo potenziale attrito? Come si influenzano reciprocamente i mondi acustici ed elettronici? Quali (im)possibilità si presentano davanti a noi? 
