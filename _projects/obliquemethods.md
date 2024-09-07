@@ -8,7 +8,7 @@ category: work
 related_publications: false
 permalink: /obliquemethods/
 ---
-Inspired by Peter Schmidt's and Brian Eno's Oblique Strategies[^1].
+Inspired by Peter Schmidt's and Brian Eno's Oblique Strategies[^1] .
 This page is **interactive**, keep clicking the button below to randomly get each time a new method.
 
 
