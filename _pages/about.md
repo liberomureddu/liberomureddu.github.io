@@ -12,6 +12,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+og_image: assets/img/social_media_gallery/160603_PICTURE_Libero_Toolosoi_Credit_Richard_Harris_1200_630_72.jpg
 ---
 
 Born in Milan in 1975 and based in Helsinki since 2003, he has studied composition at the Conservatory "G. Verdi" of Milan and music technology at the Centre for Music and Technology, Sibelius Academy, University of the Arts Helsinki. He is currently doing his artistic doctorate at the [MuTri Doctoral School](https://www.uniarts.fi/en/units/mutri-doctoral-school-and-research-unit-of-music-education-jazz-and-folk-music/) at the Sibelius Academy.  In his research, Libero Mureddu investigates the role of embodied knowledge in a free improvisation performance, and how this knowledge can be observed, analysed, and used to develop free improvisation languages. Libero Mureddu's doctorate is generously supported by the [Kone Foundation](https://koneensaatio.fi/en/).
