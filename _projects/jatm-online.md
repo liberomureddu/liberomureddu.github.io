@@ -12,7 +12,7 @@ category: work
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Joy Against the Machine - online version</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Andale+Mono&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
         body {
             background-color: black;
             margin: 0;
@@ -25,7 +25,7 @@ category: work
             font-size: 2vw;
             font-weight: bold;
             text-align: center;
-            font-family: 'Andale Mono', monospace;
+            font-family: 'Inconsolata', monospace;
         }
         .hidden {
             display: none;
@@ -79,12 +79,12 @@ category: work
             color: green; /* Set text color to green */
             border: 2px solid green; /* Add green border */
             border-radius: 5px; /* Add border radius */
-            font-family: 'Andale Mono', monospace;
+            font-family: 'Inconsolata', monospace;
         }
         #numPlayers, #duration {
             background-color: black; /* Set background to black */
             color: green; /* Set text color to green */
-            font-family: 'Andale Mono', monospace;
+            font-family: 'Inconsolata', monospace;
         }
         .input-group {
             display: flex;
@@ -100,11 +100,12 @@ category: work
             color: green; /* Set text color to green */
             border: 2px solid green; /* Add green border */
             border-radius: 5px; /* Add border radius */
-            font-family: 'Andale Mono', monospace;
+            font-family: 'Inconsolata', monospace;
         }
         #duration {
             width: 6rem; /* Set a smaller width for the duration input */
         }
+
         /* Media queries for responsive button sizes */
         @media (max-width: 768px) {
             #form-container input, #form-container button {
@@ -139,6 +140,7 @@ category: work
     <div id="intro" class="hidden">Hello. I am the Machine.</div>
     <div class="stripes-container" id="stripesContainer"></div>
     <div id="outro" class="hidden">That was enough. Thank you.</div>
+
     <script>
         const colors = ["#9DFFFF", "#ECBED7", "#FFF179", "#D4D1FF", "#FF9E9E", "#BCFA60", "#6e9ff6"];
         const texts = [
@@ -150,6 +152,7 @@ category: work
             ["Text 6", "Text K", "Text L"],
             ["Text 7", "Text M", "Text N"]
         ];
+
         function startAnimation() {
             const numPlayers = document.getElementById('numPlayers').value;
             const duration = document.getElementById('duration').value.split(':');
@@ -158,6 +161,7 @@ category: work
             const totalDuration = (minutes * 60 + seconds) * 1000; // Convert to milliseconds
             const stripesContainer = document.getElementById('stripesContainer');
             stripesContainer.innerHTML = ''; // Clear any existing stripes
+
             for (let i = 0; i < numPlayers; i++) {
                 const stripe = document.createElement('div');
                 stripe.className = 'stripe';
@@ -167,6 +171,7 @@ category: work
                 stripesContainer.appendChild(stripe);
                 changeText(`stripe${i + 1}`, texts[i % texts.length]);
             }
+
             const formContainer = document.getElementById('form-container');
             formContainer.classList.add('fade-out');
             setTimeout(() => {
@@ -176,8 +181,10 @@ category: work
                     setTimeout(showStripes, 5000);
                 }, 1000);
             }, 1000);
+
             setTimeout(startOutro, totalDuration + 7000); // Add 7 seconds for intro
         }
+
         function changeText(stripeId, textArray) {
             let currentIndex = 0;
             function updateText() {
@@ -188,10 +195,12 @@ category: work
             }
             updateText();
         }
+
         function showStripes() {
             document.getElementById('intro').classList.add('hidden');
             document.getElementById('stripesContainer').style.display = 'block';
         }
+
         function startOutro() {
             const stripes = document.querySelectorAll('.stripe');
             stripes.forEach(stripe => {
@@ -199,6 +208,7 @@ category: work
             });
             setTimeout(showOutroText, 2000);
         }
+
         function showOutroText() {
             document.getElementById('stripesContainer').classList.add('hidden');
             const outro = document.getElementById('outro');
@@ -207,20 +217,27 @@ category: work
                 outro.classList.add('fade-out-slow');
             }, 2000);
         }
+
         function changeDuration(seconds) {
             const durationInput = document.getElementById('duration');
             let [minutes, secs] = durationInput.value.split(':').map(Number);
             let totalSeconds = minutes * 60 + secs + seconds;
+
             if (totalSeconds < 0) totalSeconds = 0;
+
             minutes = Math.floor(totalSeconds / 60);
             secs = totalSeconds % 60;
+
             durationInput.value = `${String(minutes).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
         }
+
         function changePlayers(amount) {
             const playersInput = document.getElementById('numPlayers');
             let players = parseInt(playersInput.value) + amount;
+
             if (players < 1) players = 1;
             if (players > 20) players
+
             playersInput.value = players;
         }
     </script>
