@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Music, bands, research, software
 nav: true
-nav_order:
+nav_order: 2
 display_categories: [work]
 horizontal: false
 ---
