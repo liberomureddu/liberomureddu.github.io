@@ -9,14 +9,12 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 ---
 
 ## Upcoming event
+## Past event
 ### 2024​​
 - 1.9.24 Kääriäinen, Mureddu, Sjöström, tba, El Fant Helsinki
 - [25.8.24 Mureddu, Moilanen, Mustonen, Antsalo, Breyger, Luhtaniemi, Runokuu festival, Helsinki](https://runokuu.fi/en/ohjelma/poetry-concert-seikka/)
 - [15.8.24 Lauri Mäntysaari – Henriikka Tavi, Loputtomuus, Oopperakesä festival, Helsinki](https://www.oopperakesa.fi/loputtomuus)
 - [10.8.24 NYKY Ensemble plays Kaija Saariaho, Flow Festival Helsinki (production)](https://www.flowfestival.com/en/artists/nyky-ensemble-plays-kaija-saariaho/)
-
-  
-## Past event
 - [4.7.24 murmur trio, avant-garde under-ground #1, Milan](https://www.facebook.com/events/cantosospeso-choir-milan-italy/avant-garde-under-ground-1-murmur-trio/7706143892835201/)
 - 20.6.24 murmur trio debut concert, Unza!, Milan
 - [31.5.24 ‘Thirteen Encounters’, Livia Schweizer's 1st doctoral concert, Musiikkitalo, Helsinki](https://www.uniarts.fi/en/events/livia-schweizer-thirteen-encounters/)
