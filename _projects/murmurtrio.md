@@ -66,6 +66,11 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
             {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-container">
+            {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 </div>
 <div class="caption">
     A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
