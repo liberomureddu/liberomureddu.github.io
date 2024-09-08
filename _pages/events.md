@@ -14,6 +14,8 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [25.8.24 Mureddu, Moilanen, Mustonen, Antsalo, Breyger, Luhtaniemi, Runokuu festival, Helsinki](https://runokuu.fi/en/ohjelma/poetry-concert-seikka/)
 - [15.8.24 Lauri Mäntysaari – Henriikka Tavi, Loputtomuus, Oopperakesä festival, Helsinki](https://www.oopperakesa.fi/loputtomuus)
 - [10.8.24 NYKY Ensemble plays Kaija Saariaho, Flow Festival Helsinki (production)](https://www.flowfestival.com/en/artists/nyky-ensemble-plays-kaija-saariaho/)
+
+  
 ## Past event
 - [4.7.24 murmur trio, avant-garde under-ground #1, Milan](https://www.facebook.com/events/cantosospeso-choir-milan-italy/avant-garde-under-ground-1-murmur-trio/7706143892835201/)
 - 20.6.24 murmur trio debut concert, Unza!, Milan
@@ -21,6 +23,8 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [24.5.24 Borghini, Kääriäinen, Mureddu, Sjöström, Galerie Wolf + Galentz, Berlin](https://www.facebook.com/wolfgalentz/)
 - 21.5.24 Mureddu, Kääriäinen, Gratkowski, Sjöström, Terzo Mondo, Berlin
 - [19.-25.02.24 METRIC Intensive Period, Antwerp](https://metricimpro.eu)
+
+
 ### 2023​​​
 - [15.12.23 Improvised Music @ Akusmata, Akusmata Gallery, Helsinki](https://www.facebook.com/events/442384934785394)
 - [26.11.23 Kaija Saariahon musiikkia 1980-luvulta 2020-luvulle, Balderin sali, Helsinki](https://www.facebook.com/events/198641076591348)
@@ -35,7 +39,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - 07.06.23 Sjöström, Floridis, Schick, Grossi, Mureddu, Wolf&Galentz Gallery, Berlin
 - [09.03.23 NYKY Ensemble & Klangforum Wien @ Musica nova Helsinki](https://www.uniarts.fi/en/events/musica-nova-nyky-ensemble-klangforum-wien%EF%BF%BC/)
 - [15.-19.02.23 METRIC Intensive Period 2023, Leipzig](https://aec-music.eu/news-article/2023-metric-intensive-programme-ip-in-leipzig/)
--  [07.01.23 Libero Mureddu quintet, Telakka Jazz, Tampere](https://www.facebook.com/events/1679838339066755)  
+-  [07.01.23 Libero Mureddu quintet, Telakka Jazz, Tampere](https://www.facebook.com/events/1679838339066755)
+
+
 ### 2022
 - 09.11.22 Sjöström, DJ Illvibe, Narvesen, Mureddu, Panda Platforma, Berlin
 - [30.10.22 Libero Mureddu - Guillaume Gardaud duo, Hakasalmen Huvila, Helsinki](https://hakasalmenhuvila.fi/tapahtumat/improvisoituja-miniatyyreja/)
@@ -58,7 +64,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [09.03.22 Joy Against the Machine #4 @SibA Research Days 2022, Helsinki Music Centre, Helsinki](https://www.uniarts.fi/en/events/siba-research-days-2022/#programme-on-wednesday-9-march)
 - [26.02.22 Sjöström, Gratkowski, Tramontana, Schick, Mureddu, Sowieso Berlin](https://www.sowiesoberlin.com)
 - 16\. - 20.02.20  METRIC (Modernising European Higher Music Education Through Improvisation)Intensive period, Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig (cancelled because of Covid-related restrictions)
-- 08.01.22 Septad at Telakka Jazz, Tampere (cancelled because of Covid-related restrictions)  
+- 08.01.22 Septad at Telakka Jazz, Tampere (cancelled because of Covid-related restrictions)
+
+
 ### 2021
 - [29.10.21 Presentation at the conference 'Together in the Universe of Sound'](https://www.facebook.com/events/241552530804018/)
 - [08.10.21 NYKY En­sem­ble & Klang­fo­rum Wien: Georg Friedrich Haas, in vain (production)](https://www.uniarts.fi/en/events/nyky-ensemble-klangforum-wien-georg-friedrich-haas-in-vain/)
@@ -68,13 +76,15 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [03.09.21 Joy Against the Machine – A machine-controlled improvisation for human players, Conference „Doctors in Performance“ 2021 EAMT Tallinn](https://eamt.ee/en/event/doctors-in-performance/)
 - [06.06.21 'Joy Against the Machine #2', Research Pavilion Helsinki](https://www.uniarts.fi/en/projects/research-pavilion/)
 - [18.03.21 Conference: The Improviser's Experience, Royal Musical Association and the University of Huddersfield (online event)](https://improdotnetwork.wordpress.com/18-19-march-2021-conference-schedule/)
-- [08.02.21 Septad ensemble: "Joy Against the Machine", Musica nova Helsinki festival](https://musicanova.fi/en/event/joy-against-the-machine-libero-mureddus-first-doctoral-concert/)  
+- [08.02.21 Septad ensemble: "Joy Against the Machine", Musica nova Helsinki festival](https://musicanova.fi/en/event/joy-against-the-machine-libero-mureddus-first-doctoral-concert/)
+
+
 ### 2020
 - [05.08.20 "Remote Improvisation" with Beniamino Borghi, online performance](https://www.facebook.com/tanssiARTesani)​
 - [04.03.20 Ensemble Triano, Estonian Academy of Music and Theatre](https://www.facebook.com/events/eesti-muusika-ja-teatriakadeemia-estonian-academy-of-music-and-theatre/doktorandid-laval-ensemble-triano/619797038814527/)
 - [27.02.20 Sjöström / Rodrigues / Mureddu / Bauer / Narvesen, Sowieso, Berlin](https://www.facebook.com/events/766092557209328/)
-- 22\. - 26.01.20  METRIC (Modernising European Higher Music Education Through Improvisation)  
-    Intensive period, Estonian Academy of Music and Theatre, Tallinn  
+- 22\. - 26.01.20  METRIC (Modernising European Higher Music Education Through Improvisation) Intensive period, Estonian Academy of Music and Theatre, Tallinn
+
 ### 2019
 - 0[5.12.19 Juutilainen & Mureddu: acoustic / electronic, VTT, Helsinki](https://www.facebook.com/events/763950180771128/)
 - [26.11.19 Hexad, MuTeFest '19, Helsinki](https://www.uniarts.fi/en/events/thu-12092019-1428/mutefest-mute-alumni-discussion-concert)
@@ -96,7 +106,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [17.4.19 NYKY Ensemble & ensemble recherche: Where Generations Meets (production)](http://www.facebook.com/events/278863172784918/)
 - 7.3.19 Guest appearance with Guilherme Rodrigues, Harri Sjöström, Mike Majkowski, Steve Heather, Sowieso, Berlin
 - [9.2.17 Musica nova: NYKY Ensemble – Boulez & Cage, Helsinki Music Centre (production)](http://www.facebook.com/events/1130780607089902/)
-- [3.1.19 Lauri Sallinen ‘Solitude’, Kuhmon Talvi Festival, Kuhmo](https://kuhmowinter.fi/en/)[​](https://kuhmowinter.fi/en/)  
+- [3.1.19 Lauri Sallinen ‘Solitude’, Kuhmon Talvi Festival, Kuhmo](https://kuhmowinter.fi/en/)[​](https://kuhmowinter.fi/en/)
+
+
 ### 2018
 - [17.10.18 Korvat auki ensemble, Mikrofest - Microtonal music festival, Vapaan Taiteen Tila Helsinki](http://korvatauki.net/mikrofest/)
 - [8\. & 9.9.18 Soundscapes and Soundportraits Festival (Parker, Lovens, Wachsmann, Hauta-aho, Sjöström, Bauer, Tramontana, Kujala, Narvesen, Gordoa, Mureddu, Czerniawska), Balderin Sali, Helsinki](http://www.facebook.com/events/433446200462324/)
@@ -111,7 +123,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [10.1.18 Motström (Harri Sjöström, Emilio Gordoa, Libero Mureddu, Jukka Kääriäinen, Janne Tuomi), Juttutupa, Helsinki](http://www.facebook.com/events/174461689823429/)
 - [9.1.18 Sjöström, Hauta-aho, Gordoa, Mureddu, Kääriäinen, Lavaklubi, Helsinki](http://www.facebook.com/events/392282841192336/)
 - [8.1.18 Exit to Now! (Harri Sjöström, Emilio Gordoa, Teppo Hauta-aho, Libero Mureddu, Jukka Kääriäinen), Putte’s, Helsinki](http://www.facebook.com/events/1989702464618650/)
-- [7.1.18 Instant (Harri Sjöström, Emilio Gordoa, Libero Mureddu), Gallery Myymälä2, Helsinki](http://www.facebook.com/events/1965976256762562/)  
+- [7.1.18 Instant (Harri Sjöström, Emilio Gordoa, Libero Mureddu), Gallery Myymälä2, Helsinki](http://www.facebook.com/events/1965976256762562/)
+
+
 ### 2017
 - [24.11.17, Mureddu://:Cartheuser, Gallery Myymälä2, Helsinki](http://www.myymala2.com/)
 - [6.11.17, Avanti! Chamber Orchestra, Ritarihuone, Helsinki (live electronics)](http://www.facebook.com/events/2004584683098043/)
@@ -122,10 +136,12 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [3\. & 5.8.17 Liquid, Universum theatre, Helsinki](http://www.facebook.com/events/268640116953007/)
 - [9.6.17 Lauri Sallinen ‘Solitude’, Hiljaisuus festival, Lapland](https://www.hiljaisuusfestivaali.fi/ohjelmisto2017/)
 - [4.2.17 Korvat auki ensemble, Musica nova Festival, G Livelab, Helsinki](https://musicanova.fi/en/programme/korvat-auki-jan-st-werner)
-- [4.2.17 Uusinta, Musica nova Festival, G Livelab, Helsinki](https://musicanova.fi/en/programme/uusinta-ensemble)  
+- [4.2.17 Uusinta, Musica nova Festival, G Livelab, Helsinki](https://musicanova.fi/en/programme/uusinta-ensemble)
+
+
 ### 2016
 - 25.11.16 NYKY Ensemble, Soiva-akatemia, Musiikkitalo, Helsinki (production)
-- [21.11.16 Mureddu://:Cartheuser, Tyhjän kodin festivaali, Helsinki](http://www.facebook.com/events/1461497160544954/)
+- 21.11.16 Mureddu://:Cartheuser, Tyhjän kodin festivaali, Helsinki
 - 28.10.16 NYKY Ensemble, Soiva-akatemia, Musiikkitalo, Helsinki (production)
 - [14.10.16 Liquid Quartet, Huuto Galleria, Helsinki](http://www.facebook.com/events/191669511268012/)
 - 4.10.16 Korvat auki ensemble, Sügifest, Tallinn
@@ -145,7 +161,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - 1.2.16 NYKY Ensemble, SibaFest, Musiikkitalo, Helsinki (production)
 - 16.1.16 Liquid Quartet, Lavaklubi, Helsinki  
 ### 2015
-- 20.11.15 Mureddu://:Cartheuser, MuTeFest ’15, Musiikkitalo, Helsinki  
+- 20.11.15 Mureddu://:Cartheuser, MuTeFest ’15, Musiikkitalo, Helsinki
+
+
 ### 2014
 - [06.06.14 Den olydiga ballongen, Hanko Theatre Festival](http://hangoteatertraff.org/event/den-olydiga-ballongen/)
 - [31.05.14 with Korvat auki Ensemble, Balderin sali, Helsinki](http://www.facebook.com/events/253391358181100/)
@@ -161,7 +179,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - 17.03.14 with Ulla Mäkinen, Petrozavodsk
 - 15.03.14 with Ulla Mäkinen, Petrozavodsk
 - [9.3.14 Den olydiga ballongen, Annantalo, Helsinki](http://www.facebook.com/events/791678394194281/)
-- [8.3.14 Den olydiga ballongen, Luckan, Helsinki](http://www.facebook.com/events/295002983984936/)  
+- [8.3.14 Den olydiga ballongen, Luckan, Helsinki](http://www.facebook.com/events/295002983984936/)
+
+
 ### 2013
 - [4.12.13 Korvat auki Ensemble, Tarkk’ampujan kappeli, Tuomiokirkko, Turku](http://www.facebook.com/events/1438022276419837/)
 - [11.11.13 Disklavier concert, MuTeFest ’13, Musiikkitalo, Helsinki](http://www.siba.fi/whats-on1/-/events/event/9524)
