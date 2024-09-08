@@ -86,7 +86,7 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 ### 2019
 - 0[5.12.19 Juutilainen & Mureddu: acoustic / electronic, VTT, Helsinki](https://www.facebook.com/events/763950180771128/)
 - [26.11.19 Hexad, MuTeFest '19, Helsinki](https://www.uniarts.fi/en/events/thu-12092019-1428/mutefest-mute-alumni-discussion-concert)
-- [15.11.19 Kuolemantanssit, Helsinki](http://arsmoriendi.fi/kuolemantanssit/)
+- 15.11.19 Kuolemantanssit, Helsinki
 - 19.10.19 Liquid Quartet, Universum theatre, Helsinki
 - [11.10.19 Kääriäinen solo / Mureddu's 'Covers #1' feat. G. Convertito, VTT, Helsinki](https://www.facebook.com/events/377098729841140/)
 - [01.10.19 Niilo Tarnanen's Electric Bass Concerto, Malmitalo, Helsinki](https://www.facebook.com/events/1174602782711763/)
