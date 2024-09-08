@@ -18,7 +18,7 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-12 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/mx4gk79WcxE?si=peQGe6SiOJILTRPd" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
