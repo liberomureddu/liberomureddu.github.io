@@ -17,7 +17,7 @@ murmur trio investigates the space where purely and intentionally electronic pra
 murmur is a laboratory of sounds and real-time approaches, an experiment in continuous evolution, a journey that attempts to drive the listener off the beaten path, even venturing into the impassable ones.
 
 
-<div class="row mt-3">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/mx4gk79WcxE?si=peQGe6SiOJILTRPd" class="img-fluid rounded" %}
     </div>
@@ -26,7 +26,7 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://img.youtube.com/vi/mx4gk79WcxE/maxresdefault.jpg" title="Link to murmur trio's improvisation called 'wait' on YouTube" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="https://img.youtube.com/vi/mx4gk79WcxE/maxresdefault.jpg" title="Link to murmur trio's improvisation called 'wait' on YouTube" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
