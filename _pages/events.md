@@ -3,7 +3,7 @@ layout: page
 title: events
 description: Upcoming and past events
 nav: true
-nav_order:
+nav_order: 3
 permalink: /events/
 og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603_PICTURE_AuTopsiPohl_Credit_Photomusix-Cristina_Marx_001_1200_630_72.jpg
 ---
