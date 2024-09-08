@@ -127,7 +127,7 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 
 
 ### 2017
-- [24.11.17, Mureddu://:Cartheuser, Gallery Myymälä2, Helsinki](http://www.myymala2.com/)
+- [24.11.17, Mureddu\:\/\/\:Cartheuser, Gallery Myymälä2, Helsinki](http://www.myymala2.com/)
 - [6.11.17, Avanti! Chamber Orchestra, Ritarihuone, Helsinki (live electronics)](http://www.facebook.com/events/2004584683098043/)
 - [3.11.17, NYKY Ensemble, Soiva-akatemia, Helsinki Music Centre (production)](https://www.facebook.com/events/456221701423128/)
 - [19.9.17 Sjöström, Mureddu, Kujala, Hauta-Aho, Tuomi, Laulumiehet Helsinki](http://www.helsinkijazz.fi/event/sjostrom-mureddu-kujala-hauta-aho-tuomi/)
@@ -141,17 +141,17 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 
 ### 2016
 - 25.11.16 NYKY Ensemble, Soiva-akatemia, Musiikkitalo, Helsinki (production)
-- 21.11.16 Mureddu://:Cartheuser, Tyhjän kodin festivaali, Helsinki
+- 21.11.16 Mureddu\:\/\/\:Cartheuser, Tyhjän kodin festivaali, Helsinki
 - 28.10.16 NYKY Ensemble, Soiva-akatemia, Musiikkitalo, Helsinki (production)
 - [14.10.16 Liquid Quartet, Huuto Galleria, Helsinki](http://www.facebook.com/events/191669511268012/)
 - 4.10.16 Korvat auki ensemble, Sügifest, Tallinn
 - [1.10.16 Mikroensemble, Soiva-akatemia, Musiikkitalo, Helsinki](http://www.facebook.com/events/1042223092558880/)
 - [19.8.16 Viika / Zapata / Mureddu, UNM Festival, Aarhus](http://www.ungnordiskmusik.dk/concert_6/)
 - 13.8.16 NYKY Ensemble, Flow Festival, Helsinki (production)
-- 11.8.16 Mureddu://:Cartheuser, Third Space, Helsinki
+- 11.8.16 Mureddu\:\/\/\:Cartheuser, Third Space, Helsinki
 - 15.6.16 Uusinta, Klang festival, Copenhagen
-- 3.6.16 Mureddu://:Cartheuser, Korvat auki ensemble, Töölö soi ’16, Helsinki
-- 21.5.16 Mureddu://:Cartheuser, Kattilahalli, Helsinki
+- 3.6.16 Mureddu\:\/\/\:Cartheuser, Korvat auki ensemble, Töölö soi ’16, Helsinki
+- 21.5.16 Mureddu\:\/\/\:Cartheuser, Kattilahalli, Helsinki
 - 11.5.16 Libero Mureddu / Otzir Godot, OccupARTy, Helsinki
 - 19.4.16 Fabio Cifariello Ciardi, Musiikkitalo, Helsinki (production)
 - 15.4.16 Korvat auki ensemble, Tampere biennale, Tampere
@@ -161,7 +161,7 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - 1.2.16 NYKY Ensemble, SibaFest, Musiikkitalo, Helsinki (production)
 - 16.1.16 Liquid Quartet, Lavaklubi, Helsinki  
 ### 2015
-- 20.11.15 Mureddu://:Cartheuser, MuTeFest ’15, Musiikkitalo, Helsinki
+- 20.11.15 Mureddu\:\/\/\:Cartheuser, MuTeFest ’15, Musiikkitalo, Helsinki
 
 
 ### 2014
