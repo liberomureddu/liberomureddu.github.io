@@ -16,6 +16,9 @@ murmur trio è un laboratorio di suoni e approcci in tempo reale, un esperimento
 murmur trio investigates the space where purely and intentionally electronic practices intersect with the long shadow of the jazz piano trio. How do we react to this potential friction? How do the acoustic and electronic worlds influence each other? What (im)possibilities lie ahead of us? 
 murmur is a laboratory of sounds and real-time approaches, an experiment in continuous evolution, a journey that attempts to drive the listener off the beaten path, even venturing into the impassable ones.
 
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,10 +26,6 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
     </div>
 </div>
 
-
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
 
 
