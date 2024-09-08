@@ -5,7 +5,7 @@ description: Upcoming and past events
 nav: true
 nav_order:
 permalink: /events/
-og_image:
+og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603_PICTURE_AuTopsiPohl_Credit_Photomusix-Cristina_Marx_001_1200_630_72.jpg
 ---
 
 ## Upcoming event
