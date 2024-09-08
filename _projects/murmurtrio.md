@@ -67,6 +67,9 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
         </div>
     </div>
 </div>
+<div class="caption">
+    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
+</div>
 
 
 
