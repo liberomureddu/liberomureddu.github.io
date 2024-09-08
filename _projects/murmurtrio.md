@@ -26,11 +26,10 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://youtu.be/mx4gk79WcxE?si=GhimhlZ4hQGHCb4b">
         {% include figure.liquid loading="eager" path="https://img.youtube.com/vi/mx4gk79WcxE/maxresdefault.jpg" title="Link to murmur trio's improvisation called 'wait' on YouTube" class="img-fluid rounded z-depth-1" %}
-        </a>
     </div>
 </div>
+
 
 
 
