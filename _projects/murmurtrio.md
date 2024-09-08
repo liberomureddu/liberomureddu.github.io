@@ -17,13 +17,13 @@ murmur trio investigates the space where purely and intentionally electronic pra
 murmur is a laboratory of sounds and real-time approaches, an experiment in continuous evolution, a journey that attempts to drive the listener off the beaten path, even venturing into the impassable ones.
 
 
-This is a sentence that needs a footnote. <d-footnote>Footnote content goes here.</d-footnote> <d-footnote>This will become a hoverable footnote.</d-footnote>
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/ZbEWNc4kuJs?si=tmlEkenbuhN63TJQ" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/embed/mx4gk79WcxE" class="img-fluid rounded" %}
     </div>
+</div>
+<div class="caption">
+    murmur trio during a recording session in February 2023
 </div>
 
 <!-- This solution didn't work -->
@@ -34,7 +34,7 @@ This is a sentence that needs a footnote. <d-footnote>Footnote content goes here
 </div> -->
 
 <!-- Instead I'm using this one, taken from https://github.com/codepo8/youtube-embed/blob/main/youtube.html -->
-<div class="embed-container">
+<!-- <div class="embed-container">
     <iframe width="640" height="390" 
     src="https://www.youtube.com/embed/mx4gk79WcxE" 
     frameborder="0" allowfullscreen></iframe>
@@ -57,9 +57,10 @@ This is a sentence that needs a footnote. <d-footnote>Footnote content goes here
   height: 100%;
 }
 </style>
+-->
 
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <div class="embed-container">
             {% include video.liquid path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
@@ -79,6 +80,8 @@ This is a sentence that needs a footnote. <d-footnote>Footnote content goes here
 <div class="caption">
     A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
 </div>
+
+-->
 
 
 
