@@ -77,6 +77,9 @@ murmur is a laboratory of sounds and real-time approaches, an experiment in cont
 </div>
 
 
+This is a sentence that needs a footnote.<d-footnote>Footnote content goes here.</d-footnote>
+
+
 
 
 
