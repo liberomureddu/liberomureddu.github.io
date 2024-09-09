@@ -28,29 +28,30 @@ Sonic Avatars continues my exploration of the improviser’s embodied knowledge 
 ## Credits
 
 - Libero Mureddu, artistic concept and direction, software concept, iPad UI design, additional Max programming, live electronics (von Schlippenbach's avatar), project production
-- Vincent von Schlippenbach, turntables
-- Harri Sjöström, soprano and sopranino saxophones
-- Livia Schweizer,  live electronics (Sjöström's avatar)
-- Antonio Borghini, double bass
-- Ville Herrala, live electronics (Borghini's avatar)
-- Cristiano Calcagnile, drums and objects
+- [Vincent von Schlippenbach](https://de.wikipedia.org/wiki/DJ_Illvibe), turntables
+- [Harri Sjöström](https://www.harrisjostrom.com), soprano and sopranino saxophones
+- [Livia Schweizer](https://liviaschweizer.com),  live electronics (Sjöström's avatar)
+- [Antonio Borghini](http://antonioborghini.com), double bass
+- [Ville Herrala](https://jazzfinland.fi/artisti/ville-herrala), live electronics (Borghini's avatar)
+- [Cristiano Calcagnile](https://www.cristianocalcagnile.eu), drums and objects
 - Teemu Mustonen, live electronics (Calcagnile's avatar)
-- Alexis Baskind, sound recording for the Berlin recording session, software concept and design, Max programming, additional Jitter programming
-- Counterpoint Studio, algorithmically generated audiovisual material
-- Max Hilsamer, direction, camera operator and lighting for the Berlin recording session
-- Federico Foderaro, Jitter programming
-- Tuisku Hillilä, sound recording at the Aalto Studios session, Helsinki
-- Ilona Raivio, camera operator at the Aalto Studios session, Helsinki
-- Bjarke Aalto, lighting at the Aalto Studios session, Helsinki
-- Rolando Camilo, filming production at the Aalto Studios session
-- Jan Schacher, additional Max programming
-- Alisha Davidow, stage direction
-- Jon-Patrick Kuhlefelt, concert sound engineer
-- Sirje Ruohtula, concert light designer
-- Jonatan Snapir, concert assistant sound engineer
-- Janne Ikäheimo, concert producer
-- Party&BS, Turntables rental
-- Wilma Hurskainen, photos
+- [Alexis Baskind](https://alexisbaskind.net), sound recording for the Berlin recording session, software concept and design, Max programming, additional Jitter programming
+- [Counterpoint Studio](https://ctpt.co), algorithmically generated audiovisual material
+- [Max Hilsamer](https://www.maxhilsamer.net), direction, camera operator and lighting for the Berlin recording session
+- [Federico Foderaro](https://www.federicofoderaro.com), Jitter programming
+- [Tuisku Hillilä](https://www.instagram.com/tuisqqq/), sound recording at the Aalto Studios session, Helsinki
+- [Ilona Raivio](https://fi.linkedin.com/in/ilonaraivio), camera operator at the Aalto Studios session, Helsinki
+- [Bjarke Aalto](https://studios.aalto.fi/people/bjarke-aalto/), lighting at the Aalto Studios session, Helsinki
+- [Rolando Camilo](https://studios.aalto.fi/people/rolando-camilo/), filming production at the Aalto Studios session
+- [Jan Schacher](https://www.jasch.ch), additional Max programming
+- [Alisha Davidow](https://www.alishadavidow.com), stage direction
+- [Jon-Patrick Kuhlefelt](https://www.uniarts.fi/henkilot/jon-patrik-kuhlefelt/), concert sound engineer
+- [Sirje Ruohtula](https://www.uniarts.fi/henkilot/sirje-ruohtula/), concert light designer
+- [Jonatan Snapir](https://soundcloud.com/jonatan-snapir), concert assistant sound engineer
+- [Janne Ikäheimo](https://www.uniarts.fi/henkilot/janne-ikaheimo/), concert producer
+- [Party&BS](https://www.instagram.com/pbshki/?hl=en), Turntables rental
+- [Wilma Hurskainen](https://www.wilmahurskainen.com), photos
+
 
 The project was supported by Taike, the Sibelius Academy Foundation, the Executive Group for Doctoral Education and Research (TTOR) of the University of the Arts Helsinki. Libero Mureddu's doctorate is supported by Koneen säätiö.
 A special thanks to Sakari Puhakka and Helsinki jazz ry for their help for the concert production and Aalto Studios for the filming session in Helsinki.
