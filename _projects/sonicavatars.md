@@ -15,6 +15,7 @@ Sonic Avatars continues my exploration of the improviser’s embodied knowledge 
 
 ## Video
 
+
 <!-- The following code is not anymore needed as YouTube embed was solved -->
 <!--<div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +29,7 @@ Sonic Avatars continues my exploration of the improviser’s embodied knowledge 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="ttps://www.youtube.com/embed/DXkrKDERihQ" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/embed/DXkrKDERihQ" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
