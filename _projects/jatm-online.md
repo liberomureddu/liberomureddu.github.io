@@ -63,7 +63,7 @@ category: work
                 transform: translate(-50%, -50%);
                 padding: 1rem;
                 width: 100%;
-                text-align: left; /* Left-align the intro and outro text */
+                text-align: center; /* Left-align the intro and outro text */
             }
             #form-container {
                 position: absolute;
