@@ -8,6 +8,7 @@ category: work
 giscus_comments: false
 permalink: /test/
 og_image: 
+related_publications: true
 ---
 murmur trio investiga lo spazio dove si intersecano pratiche esclusivamente e volutamente elettroniche con la lunga ombra del jazz piano trio. Come reagiamo a questo potenziale attrito? Come si influenzano reciprocamente i mondi acustici ed elettronici? Quali (im)possibilità si presentano davanti a noi? 
 murmur trio è un laboratorio di suoni e approcci in tempo reale, un esperimento in continua evoluzione, un viaggio che tenta di portare l’ascoltatore a visitare le strade meno battute, anche quelle meno percorribili.
