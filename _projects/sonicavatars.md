@@ -15,18 +15,6 @@ Sonic Avatars continues my exploration of the improviser’s embodied knowledge 
 
 ## Video
 
-
-<!-- The following code is not anymore needed as YouTube embed was solved -->
-<!--<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="https://youtu.be/DXkrKDERihQ?si=5togVAm9y_Yl21M3">
-        {% include figure.liquid loading="eager" path="/assets/img/sonicavatars/2409062024_SCREENSHOT_sonic_avatars_Youtube_001_1262X711%20.jpg" title="Link to Sonic Avatars premiere on YouTube" class="img-fluid rounded z-depth-1" %}
-            </a>
-    </div>
-    </div>
--->
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/DXkrKDERihQ" class="img-fluid rounded" %}
