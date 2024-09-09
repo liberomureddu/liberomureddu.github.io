@@ -95,6 +95,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing.
 
 If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
 
+## testing footnotes
+Blabla<d-footnote>Text to footnote</d-footnote>
+
 
 
 
