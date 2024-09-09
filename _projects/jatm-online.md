@@ -5,6 +5,7 @@ description: An online, non interactive version of my composition 'Joy Against t
 img: assets/img/projects_gallery/240906_PICTURE_JATM-online_001_600X600.jpg
 importance: 3
 category: work
+og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/2409091604_IMAGE_Jatm_online_version_Social_sharing_1200_630_72.jpg
 ---
 <html lang="en">
     <head>
