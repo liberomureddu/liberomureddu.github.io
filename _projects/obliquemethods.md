@@ -1,5 +1,5 @@
 ---
-layout: page_with_footnotes
+layout: page
 title: Oblique Methods
 description: Interactive Artistic Research random method picker
 img: assets/img/projects_gallery/2409062244_SCREENSHOT_Oblique_methods_001_650X650.jpeg
@@ -7,7 +7,7 @@ importance: 4
 category: work
 related_publications: false
 permalink: /obliquemethods/
-footnotes: false
+footnotes: true
 ---
 The idea for this software is openly inspired by Peter Schmidt's and Brian Eno's Oblique Strategies.<d-footnote>Peter Schmidt's and Brian Eno's <a href="https://www.enoshop.co.uk/product/oblique-strategies?filter=Oblique%20Strategies">Oblique Strategies</a>, is a set of cards 'each of which is a suggestion of a course of action or thinking to assist in creative situations'. The idea of using research methods as the card content was developed during the [Summer Academy for Artistic research SAAR 2024](https://blogit.uniarts.fi/en/post/saar-in-august-2024-in-finland/).</d-footnote>
 
