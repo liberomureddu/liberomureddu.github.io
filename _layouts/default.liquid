@@ -13,6 +13,8 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+    <!-- LIBERO: Include the Distill JS for footnotes -->
+    <script src="{{ '/assets/js/distillpub/template.v2.js' | relative_url }}"></script>
   </head>
 
   <!-- Body -->
@@ -46,6 +48,23 @@
         {{ content }}
       {% endif %}
     </div>
+
+    <!-- LIBERO: Appendices for footnotes and citations 
+    <d-appendix>
+      <d-footnote-list></d-footnote-list>
+      <d-citation-list></d-citation-list>
+    </d-appendix>
+    <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography> -->
+
+    <!-- LIBERO: New version for appendices for footnotes and citations -->
+    {% if page.footnotes == true %}
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
+      <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+    {% endif %}
+
 
     <!-- Footer -->
     {% include footer.liquid %}
