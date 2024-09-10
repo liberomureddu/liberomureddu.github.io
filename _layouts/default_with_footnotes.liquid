@@ -49,12 +49,21 @@
       {% endif %}
     </div>
 
-    <!-- LIBERO: Appendices for footnotes and citations -->
+    <!-- LIBERO: Appendices for footnotes and citations 
     <d-appendix>
       <d-footnote-list></d-footnote-list>
       <d-citation-list></d-citation-list>
     </d-appendix>
-    <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+    <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography> -->
+
+    <!-- LIBERO: New version for appendices for footnotes and citations -->
+    {% if page.footnotes == true %}
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
+      <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+    {% endif %}
 
 
     <!-- Footer -->
