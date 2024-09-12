@@ -1,7 +1,7 @@
 ---
 layout: none
 title: Joy Against the Machine - online version
-description: An online, non interactive version of my composition 'Joy Against the Machine'
+description: An online version of my composition ['Joy Against the Machine'](#)
 img: assets/img/projects_gallery/240906_PICTURE_JATM-online_001_600X600.jpg
 importance: 3
 category: work
