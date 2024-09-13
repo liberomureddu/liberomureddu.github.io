@@ -37,7 +37,7 @@ permalink: /gallery/
       <img src="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 9" />
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/Antti_Ahonen_AAVE_Liquid.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 10" />
+      <img src="https://github.com/liberomureddu/assets/img/libero_gallery/Antti_Ahonen_AAVE_Liquid.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 10" />
     </div>
     <!-- Portrait Images -->
     <div class="col-lg-4 col-md-6 mb-4">
