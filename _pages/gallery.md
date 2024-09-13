@@ -12,7 +12,7 @@ permalink: /gallery/
   <div class="row">
     <!-- Landscape Images -->
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/160603_PICTURE_Libero_Toolosoi_Richard_Harris_Original.jpg" title="Landscape 1" caption='<a href="https://richardberesfordharris.com">Photo by Richard Beresford Harris</a>' class="img-fluid rounded shadow-sm" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/compressed/160603_PICTURE_Libero_Toolosoi_Richard_Harris_2000_1301_72.jpg" title="Landscape 1" caption='Credit: Richard Beresford Harris.<a href="hassets/img/libero_gallery/compressed/160603_PICTURE_Libero_Toolosoi_Richard_Harris_Original.jpg">Hi-res</a>' class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
       {% include figure.liquid loading="eager" path="assets/img/libero_gallery/171203_PICTURE_Libero_Live_setup_Richard_Harris.jpg" title="Landscape 2" caption="Photo by Richard Beresford Harris" class="img-fluid rounded shadow-sm" zoomable=true %}
