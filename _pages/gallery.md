@@ -30,7 +30,7 @@ permalink: /gallery/
       {% include figure.liquid loading="eager" path="assets/img/libero_gallery/211002_PICTURE_Mureddu_Credit_Foto TJ Krebs_001.jpg" title="Landscape 6" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_03.jpg" title="Landscape 7" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" title="Landscape 7" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
       {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_05.jpg" title="Landscape 8" class="img-fluid rounded shadow-sm" %}
