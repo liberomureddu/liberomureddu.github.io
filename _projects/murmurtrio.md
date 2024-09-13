@@ -16,6 +16,15 @@ murmur trio è un laboratorio di suoni e approcci in tempo reale, un esperimento
 murmur trio investigates the space where purely and intentionally electronic practices intersect with the long shadow of the jazz piano trio. How do we react to this potential friction? How do the acoustic and electronic worlds influence each other? What (im)possibilities lie ahead of us? 
 murmur is a laboratory of sounds and real-time approaches, an experiment in continuous evolution, a journey that attempts to drive the listener off the beaten path, even venturing into the impassable ones.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/HUrZqioCjqM" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    murmur trio live at avant-garde under-ground, Milan
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
