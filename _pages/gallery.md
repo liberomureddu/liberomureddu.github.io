@@ -5,50 +5,53 @@ nav: true
 nav_order: 4
 permalink: /gallery/
 ---
+
+
 <!-- Gallery -->
 <div class="container">
   <div class="row">
     <!-- Landscape Images -->
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/160603_PICTURE_Libero_Toolosoi_Richard_Harris_Original.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 1" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/160603_PICTURE_Libero_Toolosoi_Richard_Harris_Original.jpg" title="Landscape 1" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/171203_PICTURE_Libero_Live_setup_Richard_Harris.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 2" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/171203_PICTURE_Libero_Live_setup_Richard_Harris.jpg" title="Landscape 2" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_001.JPG" class="img-fluid rounded shadow-sm" alt="Landscape 3" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_001.JPG" title="Landscape 3" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_002.JPG" class="img-fluid rounded shadow-sm" alt="Landscape 4" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_002.JPG" title="Landscape 4" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/190603_PICTURE_Bauchhund_Photomusix-Cristina Marx_001.JPG" class="img-fluid rounded shadow-sm" alt="Landscape 5" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_Bauchhund_Photomusix-Cristina Marx_001.JPG" title="Landscape 5" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/211002_PICTURE_Mureddu_Credit_Foto TJ Krebs_001.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 6" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/211002_PICTURE_Mureddu_Credit_Foto TJ Krebs_001.jpg" title="Landscape 6" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_03.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 7" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_03.jpg" title="Landscape 7" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_05.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 8" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_05.jpg" title="Landscape 8" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="https://liberomureddu.github.io/assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 9" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" title="Landscape 9" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="https://liberomureddu.github.io/assets/img/libero_gallery/Antti_Ahonen_AAVE_Liquid.jpg" class="img-fluid rounded shadow-sm" alt="Landscape 10" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/Antti_Ahonen_AAVE_Liquid.jpg" title="Landscape 10" class="img-fluid rounded shadow-sm" %}
     </div>
     <!-- Portrait Images -->
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_02.jpg" class="img-fluid rounded shadow-sm" alt="Portrait 1" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_02.jpg" title="Portrait 1" class="img-fluid rounded shadow-sm" %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      <img src="assets/img/libero_gallery/PICTURE_Mureddu_Cartheuser_Mutefest15_Wilma_Hurskainen_cropped.png" class="img-fluid rounded shadow-sm" alt="Portrait 2" />
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Mureddu_Cartheuser_Mutefest15_Wilma_Hurskainen_cropped.png" title="Portrait 2" class="img-fluid rounded shadow-sm" %}
     </div>
   </div>
 </div>
 <!-- Gallery -->
+
 
 
 
