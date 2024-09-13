@@ -12,41 +12,41 @@ permalink: /gallery/
   <div class="row">
     <!-- Landscape Images -->
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/160603_PICTURE_Libero_Toolosoi_Richard_Harris_Original.jpg" title="Landscape 1" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/160603_PICTURE_Libero_Toolosoi_Richard_Harris_Original.jpg" title="Landscape 1" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/171203_PICTURE_Libero_Live_setup_Richard_Harris.jpg" title="Landscape 2" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/171203_PICTURE_Libero_Live_setup_Richard_Harris.jpg" title="Landscape 2" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_001.JPG" title="Landscape 3" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_001.JPG" title="Landscape 3" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_002.JPG" title="Landscape 4" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_AuTopsiPohl_Photomusix-Cristina Marx_002.JPG" title="Landscape 4" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_Bauchhund_Photomusix-Cristina Marx_001.JPG" title="Landscape 5" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/190603_PICTURE_Bauchhund_Photomusix-Cristina Marx_001.JPG" title="Landscape 5" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/211002_PICTURE_Mureddu_Credit_Foto TJ Krebs_001.jpg" title="Landscape 6" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/211002_PICTURE_Mureddu_Credit_Foto TJ Krebs_001.jpg" title="Landscape 6" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" title="Landscape 7" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" title="Landscape 7" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_05.jpg" title="Landscape 8" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_05.jpg" title="Landscape 8" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" title="Landscape 9" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/231101_PICTURE_Libero_Soundscapes_4_Credit_Uli_Templin.jpg" title="Landscape 9" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/Antti_Ahonen_AAVE_Liquid.jpg" title="Landscape 10" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/Antti_Ahonen_AAVE_Liquid.jpg" title="Landscape 10" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <!-- Portrait Images -->
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_02.jpg" title="Portrait 1" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Libero_Harri_Lavaklubi_02.jpg" title="Portrait 1" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
     <div class="col-lg-4 col-md-6 mb-4">
-      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Mureddu_Cartheuser_Mutefest15_Wilma_Hurskainen_cropped.png" title="Portrait 2" class="img-fluid rounded shadow-sm" %}
+      {% include figure.liquid loading="eager" path="assets/img/libero_gallery/PICTURE_Mureddu_Cartheuser_Mutefest15_Wilma_Hurskainen_cropped.png" title="Portrait 2" class="img-fluid rounded shadow-sm" zoomable=true %}
     </div>
   </div>
 </div>
