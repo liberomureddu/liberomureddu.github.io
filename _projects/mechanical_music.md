@@ -21,55 +21,38 @@ My first composition for the Disklavier is called 'Déploration sur la mort de G
     </div>
 </div>
 <div class="caption">
-   Déploration sur la mort de G. L., original version
+   Déploration sur la mort de G. L., original version (2006)
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/ukplekx0Y64" class="img-fluid rounded" %}
     </div>
+    <div class="caption">
+        Canon I, Déploration sur la mort de G. L., Supercollider version (2017), dedicated to György Ligeti and Derek Holzer
+        </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/AP5QNcDzGDw" class="img-fluid rounded" %}
     </div>
+    <div class="caption">
+        Canon II, Inversion (2017), dedicated to Karlheinz Essl
+        </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/_gFgEyEJybk" class="img-fluid rounded" %}
         <div class="caption">
-        Caption
+        Canon III, Décélération (2017), dedicated to Jean-Claude Risset
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/p1aflxk22b8" class="img-fluid rounded" %}
     </div>
+    <div class="caption">
+        Canon IV, Double (2017), dedicated to Niilo Tarnanen
+        </div>
 </div>
-
-
-https://www.youtube.com/embed/ukplekx0Y64
-Libero Mureddu - Canon I, Déploration sur la mort de G. L. (2006) for Disklavier and Supercollider.
-Dedicated to György Ligeti and Derek Holzer.
-Recorded on the 31 December 2017 at the Music & Technology department,  Sibelius Academy of the University of the Arts Helsinki
-
-
-https://www.youtube.com/embed/AP5QNcDzGDw
-Libero Mureddu - Canon II, Déploration - inversion (2017) for Disklavier and Supercollider.
-Dedicated to Karlheinz Essl.
-Recorded on the 31 December 2017 at the Music & Technology department,  Sibelius Academy of the University of the Arts Helsinki
-
-
-https://www.youtube.com/embed/_gFgEyEJybk
-Libero Mureddu - Canon III, Décélération (2017) for Disklavier and Supercollider.
-Dedicated to Jean-Claude Risset.
-Recorded on the 31 December 2017 at the Music & Technology department,  Sibelius Academy of the University of the Arts Helsinki
-
-
-
-https://www.youtube.com/embed/p1aflxk22b8
-Libero Mureddu - Canon IV, Double (2017) for Disklavier and Supercollider.
-Dedicated to Niilo Tarnanen.
-Recorded on the 31 December 2017 at the Music & Technology department,  Sibelius Academy of the University of the Arts Helsinki
-
 
 ## Performing with player pianos
 As a performer, my first contact with the Disklavier happened in 2005, while assisting Jean-Claude Risset and pianist Elisa Järvi for the performance of Risset's 'Duets for One Pianist'. Since then I have been regularly working with the Disklavier, as a performer or assisting other composers or performers.
@@ -80,7 +63,7 @@ As a performer, my first contact with the Disklavier happened in 2005, while ass
     </div>
 </div>
 <div class="caption">
-   Improvisation sur Écho
+   Improvisation sur Écho, with the Yamaha Disklavier and the Max/MSP patch by Jean Claude Risset used in his composition called 'Echo' (used with his permission)
 </div>
 
 ## Curating mechanical music
@@ -94,6 +77,6 @@ Since 2012 I have been the curator of a concert series of Disklavier music calle
     </div>
 </div>
 <div class="caption">
-   Mechanical and Live Music
+   Mechanical and Live Music III (2014), Sibelius Academy
 </div>
 
