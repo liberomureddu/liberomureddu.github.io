@@ -77,6 +77,7 @@ As a performer, my first contact with the Disklavier happened in 2005, while ass
    Improvisation sur Écho
 </div>
 
+## Curating mechanical music
 
 Since 2012 I have been the curator of a concert series of Disklavier music called 'Mechanical and Live Music', hosted at the MuTeFest, the annual festival of the Centre for Music & Technology, Sibelius Academy of the University of the Arts Helsinki.
 
