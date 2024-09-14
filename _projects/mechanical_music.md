@@ -45,8 +45,6 @@ My first composition for the Disklavier is called 'Déploration sur la mort de G
     </div>
 </div>
 
-</div>
-
 
 https://www.youtube.com/embed/ukplekx0Y64
 Libero Mureddu - Canon I, Déploration sur la mort de G. L. (2006) for Disklavier and Supercollider.
