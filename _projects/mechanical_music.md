@@ -26,17 +26,25 @@ My first composition for the Disklavier is called 'Déploration sur la mort de G
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/ukplekx0Y64" caption='Canon I, Déploration sur la mort de G. L. (2006) for Disklavier and Supercollider' class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/embed/ukplekx0Y64" class="img-fluid rounded" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/AP5QNcDzGDw" class="img-fluid rounded" %}
     </div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/_gFgEyEJybk8" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/embed/_gFgEyEJybk" class="img-fluid rounded" %}
+        <div class="caption">
+        Caption
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/p1aflxk22b8" class="img-fluid rounded" %}
     </div>
 </div>
-<div class="caption">
-    Caption
+
 </div>
 
 
