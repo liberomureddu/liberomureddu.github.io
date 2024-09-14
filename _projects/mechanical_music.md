@@ -2,8 +2,8 @@
 layout: page
 title: mechanical music
 description: Mechanical music, works for player piano (and sometimes human performers)
-img: assets/img/projects_gallery/2302024_IMAGE_murmur_trio_Credit_Sini_Makinen_001_700x700.jpeg
-importance: 2
+img: https://liberomureddu.github.io/assets/img/projects_gallery/PICTURE_Disklavier_Youtube_Website_001_1500_1500.jpg
+importance: 3
 category: work
 giscus_comments: false
 permalink: /mechanicalmusic/
@@ -26,7 +26,7 @@ My first composition for the Disklavier is called 'Déploration sur la mort de G
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/ukplekx0Y64" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/embed/ukplekx0Y64" caption='Canon I, Déploration sur la mort de G. L. (2006) for Disklavier and Supercollider' class="img-fluid rounded" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/AP5QNcDzGDw" class="img-fluid rounded" %}
