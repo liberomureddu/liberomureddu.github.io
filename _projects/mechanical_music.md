@@ -18,40 +18,40 @@ My first composition for the Disklavier is called 'Déploration sur la mort de G
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/r_xOoBZUb08" class="img-fluid rounded" %}
+        <div class="caption">
+            Déploration sur la mort de G. L., original version (2006)
+        </div>
     </div>
-</div>
-<div class="caption">
-   Déploration sur la mort de G. L., original version (2006)
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/ukplekx0Y64" class="img-fluid rounded" %}
-    </div>
-    <div class="caption">
-        Canon I, Déploration sur la mort de G. L., Supercollider version (2017), dedicated to György Ligeti and Derek Holzer
+        <div class="caption">
+            Canon I, Déploration sur la mort de G. L., Supercollider version (2017), dedicated to György Ligeti and Derek Holzer
         </div>
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/AP5QNcDzGDw" class="img-fluid rounded" %}
-    </div>
-    <div class="caption">
-        Canon II, Inversion (2017), dedicated to Karlheinz Essl
+        <div class="caption">
+            Canon II, Inversion (2017), dedicated to Karlheinz Essl
         </div>
+    </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/_gFgEyEJybk" class="img-fluid rounded" %}
         <div class="caption">
-        Canon III, Décélération (2017), dedicated to Jean-Claude Risset
+            Canon III, Décélération (2017), dedicated to Jean-Claude Risset
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/p1aflxk22b8" class="img-fluid rounded" %}
-    </div>
-    <div class="caption">
-        Canon IV, Double (2017), dedicated to Niilo Tarnanen
+        <div class="caption">
+            Canon IV, Double (2017), dedicated to Niilo Tarnanen
         </div>
+    </div>
 </div>
 
 ## Performing with player pianos
@@ -60,10 +60,10 @@ As a performer, my first contact with the Disklavier happened in 2005, while ass
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/_YKbrF88sCQ" class="img-fluid rounded" %}
+        <div class="caption">
+            Improvisation sur Écho, with the Yamaha Disklavier and the Max/MSP patch by Jean Claude Risset used in his composition called 'Echo' (used with his permission)
+        </div>
     </div>
-</div>
-<div class="caption">
-   Improvisation sur Écho, with the Yamaha Disklavier and the Max/MSP patch by Jean Claude Risset used in his composition called 'Echo' (used with his permission)
 </div>
 
 ## Curating mechanical music
@@ -74,9 +74,9 @@ Since 2012 I have been the curator of a concert series of Disklavier music calle
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/OXRJHkOxkxI" class="img-fluid rounded" %}
+        <div class="caption">
+            Mechanical and Live Music III (2014), Sibelius Academy
+        </div>
     </div>
-</div>
-<div class="caption">
-   Mechanical and Live Music III (2014), Sibelius Academy
 </div>
 
