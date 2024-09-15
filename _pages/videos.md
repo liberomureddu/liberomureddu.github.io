@@ -1,13 +1,11 @@
 ---
 layout: page
 title: videos
+description: A selection of videos in reverse chronological order. More in my [YouTube channel](https://www.youtube.com/@liberomureddu)
 nav: true
 nav_order: 5
 permalink: /videos/
 ---
-A selection of videos in reverse chronological order. More in my [YouTube channel](https://www.youtube.com/@liberomureddu).
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/DXkrKDERihQ" class="img-fluid rounded" %}
