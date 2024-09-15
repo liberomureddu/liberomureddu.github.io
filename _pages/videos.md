@@ -1,7 +1,7 @@
 ---
 layout: page
 title: videos
-description: A selection of videos in reverse chronological order. More in my [YouTube channel](https://www.youtube.com/@liberomureddu)
+description: A selection of videos in reverse chronological order. More in my <a href="https://www.youtube.com/@liberomureddu">YouTube channel</a>
 nav: true
 nav_order: 5
 permalink: /videos/
