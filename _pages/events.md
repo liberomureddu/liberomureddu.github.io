@@ -9,6 +9,9 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 ---
 
 ## Upcoming event
+- 29.11.24 Libero Mureddu's third doctoral concert, Helsinki Music Centre
+- 16.11.24 Mureddu - Convertito, Oodi library, Helsinki
+- 17.9.24 Mureddu - Oittinen, performance at Vapaataidekoulu vernissage, Helsinki
 ## Past event
 ### 2024​​
 - 1.9.24 Kääriäinen, Mureddu, Sjöström, tba, El Fant Helsinki
