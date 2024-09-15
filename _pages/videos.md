@@ -30,3 +30,6 @@ Description: Giorgio Convertito (dance), Moritz Cartheuser (electric guitar and 
 
 URL: https://youtu.be/sx2-MtqFfD4
 Description: Libero Mureddu - Canon I, Déploration sur la mort de G. L. (2006) for Disklavier and Supercollider. Dedicated to György Ligeti and Derek Holzer. Recorded on the 31 December 2017 at the Music & Technology department, Sibelius Academy of the University of the Arts Helsinki
+
+https://youtu.be/D61je7eNBbM
+Description: Libero Mureddu (piano and keyboards) and Moritz Cartheuser (guitar and objects) started their collaboration in 2013 as the sounding fraction of the multidisciplinary improvisation quartet Liquid and soon began to work in the reduced form of a duo. Their pieces, inspired by their work with the Liquid Quartet, are homages to spatiality and movement, reflecting the musical background of both performers in jazz and noise-rock as well as electroacoustic and classical music, but being at the same time uncategorizable and never predictable.
