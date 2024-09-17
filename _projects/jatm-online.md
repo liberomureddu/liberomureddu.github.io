@@ -1,7 +1,7 @@
 ---
 layout: none
 title: Joy Against the Machine - online version
-description: An online version of my composition ['Joy Against the Machine'](#)
+description: An online version of my composition Joy Against the Machine, Alpha version
 img: assets/img/projects_gallery/240906_PICTURE_JATM-online_001_600X600.jpg
 importance: 4
 category: work
@@ -242,6 +242,17 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/240909
                />
             <button onclick="changeDuration(1)">+</button>
          </div>
+
+         <div class="input-group">
+            <label for="minDelay">Enter the minimum delay (ms):</label>
+            <input type="number" id="minDelay" value="3000" />
+        </div>
+        <div class="input-group">
+            <label for="maxDelay">Enter the maximum delay (ms):</label>
+            <input type="number" id="maxDelay" value="8000" />
+        </div>
+        
+
          <div class="input-group">
             <label for="userTexts"
                >Enter your instructions (comma-separated):</label
@@ -259,42 +270,47 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/240909
       <div id="outro" class="hidden">That was enough. Thank you.</div>
       <script>
          function startAnimation() {
-         const numPlayers = document.getElementById("numPlayers").value;
-         const duration = document.getElementById("duration").value.split(":");
-         const totalDuration = 1000 * (60 * parseInt(duration[0]) + parseInt(duration[1]));
-         const stripesContainer = document.getElementById("stripesContainer");
-         const userTexts = document.getElementById("userTexts").value.split(",").map(text => text.trim());
-         const textsToUse = userTexts.length > 0 && userTexts[0] !== "" ? userTexts : defaultTexts;
-         stripesContainer.innerHTML = "";
-         for (let i = 0; i < numPlayers; i++) {
-         const stripe = document.createElement("div");
-         stripe.className = "stripe";
-         stripe.id = `stripe${i + 1}`;
-         stripe.style.backgroundColor = colors[i % colors.length];
-         stripe.textContent = textsToUse[Math.floor(Math.random() * textsToUse.length)];
-         stripesContainer.appendChild(stripe);
-         changeText(`stripe${i + 1}`, textsToUse);
-         }
-         const formContainer = document.getElementById("form-container");
-         formContainer.classList.add("fade-out");
-         setTimeout(() => {
-         formContainer.classList.add("hidden");
-         setTimeout(() => {
-             document.getElementById("intro").classList.remove("hidden");
-             setTimeout(showStripes, 5000);
-         }, 1000);
-         }, 1000);
-         setTimeout(startOutro, totalDuration + 7000);
-         }
-         function changeText(id, texts) {
-         function updateText() {
-         const index = Math.floor(Math.random() * texts.length);
-         document.getElementById(id).textContent = texts[index];
-         const delay = Math.floor(5000 * Math.random()) + 3000;
-         setTimeout(updateText, delay);
-         }
-         updateText();
-         }
+    const numPlayers = document.getElementById("numPlayers").value;
+    const duration = document.getElementById("duration").value.split(":");
+    const totalDuration = 1000 * (60 * parseInt(duration[0]) + parseInt(duration[1]));
+    const stripesContainer = document.getElementById("stripesContainer");
+    const userTexts = document.getElementById("userTexts").value.split(",").map(text => text.trim());
+    const textsToUse = userTexts.length > 0 && userTexts[0] !== "" ? userTexts : defaultTexts;
+    const minDelay = parseInt(document.getElementById("minDelay").value);
+    const maxDelay = parseInt(document.getElementById("maxDelay").value);
+    
+    stripesContainer.innerHTML = "";
+    for (let i = 0; i < numPlayers; i++) {
+        const stripe = document.createElement("div");
+        stripe.className = "stripe";
+        stripe.id = `stripe${i + 1}`;
+        stripe.style.backgroundColor = colors[i % colors.length];
+        stripe.textContent = textsToUse[Math.floor(Math.random() * textsToUse.length)];
+        stripesContainer.appendChild(stripe);
+        changeText(`stripe${i + 1}`, textsToUse, minDelay, maxDelay);
+    }
+    const formContainer = document.getElementById("form-container");
+    formContainer.classList.add("fade-out");
+    setTimeout(() => {
+        formContainer.classList.add("hidden");
+        setTimeout(() => {
+            document.getElementById("intro").classList.remove("hidden");
+            setTimeout(showStripes, 5000);
+        }, 1000);
+    }, 1000);
+    setTimeout(startOutro, totalDuration + 7000);
+}
+
+function changeText(id, texts, minDelay, maxDelay) {
+    function updateText() {
+        const index = Math.floor(Math.random() * texts.length);
+        document.getElementById(id).textContent = texts[index];
+        const delay = Math.floor((maxDelay - minDelay) * Math.random()) + minDelay;
+        setTimeout(updateText, delay);
+    }
+    updateText();
+}
+
          function showStripes() {
              document.getElementById("intro").classList.add("hidden");
              document.getElementById("stripesContainer").style.display = "block";
@@ -371,3 +387,4 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/240909
       </script>
    </body>
 </html>
+
