@@ -195,3 +195,30 @@ og_image: https://liberomureddu.github.io/assets/img/social_media_gallery/190603
 - [20 – 24.8.13 Movements in Possible Histories @ UNM Festival, Oslo](http://unm.no/)
 - [16 – 23.6.13 Composer in residence @ Chamber Music Campania Festival](http://www.chambermusiccampania.org/)
 - [11.4.13 with Liquid @ Aavefestival, Malmitalo, Helsinki](https://www.facebook.com/events/447252595350805/)
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const upcomingEvents = document.querySelector('#upcoming-events');
+    const pastEvents = document.querySelector('#past-events');
+    const currentDate = new Date();
+
+    function movePastEvents() {
+        const events = upcomingEvents.querySelectorAll('li');
+        events.forEach(event => {
+            const eventText = event.textContent || event.innerText;
+            const eventDateMatch = eventText.match(/\d{1,2}\.\d{1,2}\.\d{2}/);
+            if (eventDateMatch) {
+                const eventDateParts = eventDateMatch[0].split('.');
+                const eventDate = new Date(`20${eventDateParts[2]}`, eventDateParts[1] - 1, eventDateParts[0]);
+                if (eventDate < currentDate) {
+                    pastEvents.appendChild(event);
+                }
+            }
+        });
+    }
+
+    movePastEvents();
+});
+</script>
+
